@@ -20,3 +20,6 @@ sa-audit-*.json
 
 # maintainer-only planning artifacts (RR-B-35)
 internal/superpowers/
+
+# superpowers pipeline artifacts
+docs/superpowers/
